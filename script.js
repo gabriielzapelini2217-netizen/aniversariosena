@@ -1,3 +1,7 @@
+function tocarMusica(){
+let musica = document.getElementById("musica")
+musica.play()
+}
 function comemorar(){
 
 soltarBaloes()
